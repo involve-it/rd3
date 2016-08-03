@@ -53,14 +53,14 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.2.2",
-    "d3": "^3.5.0",
+    "d3": "3.4.0",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.1",
     "react-dom": "^0.14.0 || ^15.0.1",
-    "d3": "^3.5.0"
+    "d3": "3.4.0"
   },
   "scripts": {
     "pretest": "npm run lint",
